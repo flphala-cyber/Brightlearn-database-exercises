@@ -1,7 +1,7 @@
 #SQL Practice Exercises
 
 ## Overview
-This repository contains SQL practice exercises completed in Databricks. The work focuses on core SQL concepts used in data analytics, including filtering, sorting, aggregate functions, grouping, CASE statements, joins, UNION, and query-based business analysis.
+This repository contains SQL practice exercises hand writen. The work focuses on core SQL concepts used in data analytics, including filtering, sorting, aggregate functions, grouping, CASE statements, joins, UNION, and query-based business analysis.
 
 ## Topics Covered
 - SELECT statements
